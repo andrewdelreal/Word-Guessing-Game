@@ -15,7 +15,7 @@ the "enter/return" key to submit a guess. If you haven't played the New York Tim
 within the number of guesses you have chosen. The guess you submit will indicate on all puzzle boards which letters in the guess are part of the word you
 are trying to guess. Green letters indicate if a letter in the guess is in the correct position. Yellow letters indicate a
 letter is present in the word but in a different location. Grey/White letters indicate the letter is not present in the word. Solve all puzzles before the
-number of guesses is 
+number of guesses to win!
 
 ## Future Updates
 I plan to incorporate a keyboard object to display letters already used and a key to describe which
