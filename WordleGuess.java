@@ -43,7 +43,8 @@ public class WordleGuess extends JFrame implements Subject{
 
         guessPanel.setLayout(new GridLayout(1, WORD_LENGTH));
         setLayout(new BorderLayout());
-
+        setTitle("Enter Guess");
+        
         // setting up the Wordle Guess GUI
         JLabel temp;
         for (int i = 0; i < WORD_LENGTH; i++){
