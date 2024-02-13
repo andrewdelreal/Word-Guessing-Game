@@ -5,8 +5,8 @@ via the Observer Pattern.
 ## Install
 Create a project on your favorite JVM and include all source files given. In the driver file, update the path of the
 dictionary files to the path of your files on your machine (This will be updated in the future).
-The "wordle-La.txt" file contains all words that can be selected for the puzzle and can be used to make guesses.
-The "wordle-Ta.txt" file contains all words that can't be chosen for the puzzle but can be used to make guesses (This file contains more obscure words). 
+The "wordle-La.txt" dictionary file contains all words that can be selected for the puzzle and can be used to make guesses.
+The "wordle-Ta.txt" dictionary file contains all words that can't be chosen for the puzzle but can be used to make guesses (This file contains more obscure words). 
 
 ## How to Play
 Once the file paths for the dictionary are updated, enter the number of puzzles to play simultaneously, the number of guesses you want, and 
