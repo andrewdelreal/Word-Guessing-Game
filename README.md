@@ -9,7 +9,7 @@ The "wordle-La.txt" dictionary file contains all words that can be selected for 
 The "wordle-Ta.txt" dictionary file contains all words that can't be chosen for the puzzle but can be used to make guesses (This file contains more obscure words). 
 
 ## How to Play
-Once the file paths for the dictionary are updated, enter the number of puzzles to play simultaneously, the number of guesses you want, and 
+Once the file paths for the dictionary are updated and you run the program, enter the number of puzzles to play simultaneously, the number of guesses you want, and 
 the number of characters for words to use (currently locked at five). Once entered, use the JFrame title "Enter Guess" to type guess words and use
 the "enter/return" key to submit a guess. If you haven't played the New York Times game "Wordle," the objective is to solve the puzzle/puzzles 
 within the number of guesses you have chosen. The guess you submit will indicate on all puzzle boards which letters in the guess are part of the word you
